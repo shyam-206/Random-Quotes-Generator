@@ -4,6 +4,12 @@ body{
     text-align: center;
     color: white;
 }
+
+hr{
+ border-bottom: thin solid;
+ margin: 0 15% 0 15%;
+}
+
 #result{
     /*background-color: #758ff5;*/
     font-size: 34px;
